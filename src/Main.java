@@ -30,6 +30,7 @@ public class Main {
         newpod.setNomeDoApresentador("Hugo de São Vitor");
         newpod.setTema("educação");
         newpod.setDescricao("Podecast falando dos benefícios ao cérebro para aqueles que estudam");
+        newpod.setTemporada("1º trimestre");
         newpod.setFormato("OGG");
         newpod.setAno(2023);
         newpod.setTempoDeDuracao(50);
